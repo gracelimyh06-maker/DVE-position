@@ -1,1 +1,1 @@
-# DVE-position
+# DVE position, hotspot, variant
